@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/hammerandchisel/postcss-theme-shorthand",
   "dependencies": {
-    "postcss": "6.0.5"
+    "postcss": "8.4.31"
   },
   "devDependencies": {
     "eslint": "^3.12.2",
